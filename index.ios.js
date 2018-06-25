@@ -2,6 +2,7 @@
 * INVIP App
 * @author: Brenda Stephanie
 * Date: 2017
+*
 */
 
 import React, { Component } from 'react';
